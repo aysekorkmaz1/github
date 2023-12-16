@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Downloads/icomoon"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "githup-profil"
+  }
+}
